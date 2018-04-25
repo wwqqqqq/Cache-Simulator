@@ -485,7 +485,6 @@ public class CCacheSim extends JFrame implements ActionListener{
 	
 	/**
 	 * 绘制 Cache 模拟器图形化界面
-	 * 无需做修改
 	 */
 	public void draw() {
 		//模拟器绘制面板
