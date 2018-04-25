@@ -9,9 +9,10 @@ java CCache
 
 ## test file
 Each test file consists of several lines of instructions in the format of "type address".
-`type` = 0 -> read data
-`type` = 1 -> write data
-`type` = 2 -> read instruction
+
+`type` = 0 -> read data  
+`type` = 1 -> write data  
+`type` = 2 -> read instruction  
 `address` => address of the data or instruction in memory.
 
 ## Prefetch
